@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\helpers\\postgreshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\helpers\\postgreshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\product\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\product\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\person\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\person\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\category\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\category\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\category\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\auth\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\auth\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\models\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\models\\auth\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\praktimupaa2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\praktimupaa2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|c:\\users\\mybook hype amd\\downloads\\praktimupaa2\\praktimupaa2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF517A-52B7-45AB-A3F2-D85555DD8B5B}|praktimupaa2\\praktimupaa2.csproj|solutionrelative:praktimupaa2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Product\\Product.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Product\\Product.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:49:47.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Product\\ProductContext.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Product\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Product\\ProductContext.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Product\\ProductContext.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAowH8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:50:02.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JWTHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Helpers\\JWTHelper.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Helpers\\JWTHelper.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Helpers\\JWTHelper.cs",
+              "RelativeToolTip": "praktimupaa2\\Helpers\\JWTHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:05:04.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "postgresHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Helpers\\postgresHelper.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Helpers\\postgresHelper.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Helpers\\postgresHelper.cs",
+              "RelativeToolTip": "praktimupaa2\\Helpers\\postgresHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:08:40.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "praktimupaa2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:39:44.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "praktimupaa2\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:23:15.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "praktimupaa2\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:29:31.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "praktimupaa2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:19:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Person\\PersonContext.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Person\\PersonContext.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Person\\PersonContext.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Person\\PersonContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:29:01.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Person\\Person.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Person\\Person.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Person\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:28:49.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Category\\CategoryContext.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Category\\CategoryContext.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Category\\CategoryContext.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Category\\CategoryContext.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:50:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Category\\Category.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Category\\Category.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Category\\Category.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Category\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:50:04.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Auth\\AuthContext.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Auth\\AuthContext.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Auth\\AuthContext.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Auth\\AuthContext.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:42:28.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Auth\\Auth.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Models\\Auth\\Auth.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Models\\Auth\\Auth.cs",
+              "RelativeToolTip": "praktimupaa2\\Models\\Auth\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:33:06.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\appsettings.json",
+              "RelativeDocumentMoniker": "praktimupaa2\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\appsettings.json",
+              "RelativeToolTip": "praktimupaa2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T02:45:34.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Program.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Program.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Program.cs",
+              "RelativeToolTip": "praktimupaa2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:20:59.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "praktimupaa2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:45:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "praktimupaa2.http",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.http",
+              "RelativeDocumentMoniker": "praktimupaa2\\praktimupaa2.http",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.http",
+              "RelativeToolTip": "praktimupaa2\\praktimupaa2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-12T03:23:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "praktimupaa2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\appsettings.Development.json",
+              "RelativeToolTip": "praktimupaa2\\appsettings.Development.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T05:34:51.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "praktimupaa2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "praktimupaa2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T10:18:21.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "praktimupaa2.csproj",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.csproj",
+              "RelativeDocumentMoniker": "praktimupaa2\\praktimupaa2.csproj",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.csproj",
+              "RelativeToolTip": "praktimupaa2\\praktimupaa2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T02:25:32.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "praktimupaa2\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\WeatherForecast.cs",
+              "RelativeToolTip": "praktimupaa2\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T06:38:13.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
