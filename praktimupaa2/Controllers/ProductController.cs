@@ -40,8 +40,10 @@ namespace praktimupaa2.Controllers
             ProductContext context = new ProductContext(_consStr);
             bool success = context.AddProduct(product);
             if (success)
-                return Ok(product);
-            return BadRequest("Failed to create product");
+                return Ok("Berhasil menambahkan produk");
+
+            // KIRIM errorMessage agar kita bisa tahu kenapa gagal
+            return BadRequest("Gagal membuat produk: " + context.ErrorMessage);
         }
 
         [HttpPut("{id}")]

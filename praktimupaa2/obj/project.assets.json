@@ -1065,23 +1065,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MyBook Hype AMD\\.nuget\\packages\\": {},
+    "C:\\Users\\advan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.csproj",
+      "projectUniqueName": "C:\\Users\\advan\\Source\\Repos\\api_bangunin\\praktimupaa2\\praktimupaa2.csproj",
       "projectName": "praktimupaa2",
-      "projectPath": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\praktimupaa2.csproj",
-      "packagesPath": "C:\\Users\\MyBook Hype AMD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MyBook Hype AMD\\Downloads\\praktimupaa2\\praktimupaa2\\obj\\",
+      "projectPath": "C:\\Users\\advan\\Source\\Repos\\api_bangunin\\praktimupaa2\\praktimupaa2.csproj",
+      "packagesPath": "C:\\Users\\advan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\advan\\Source\\Repos\\api_bangunin\\praktimupaa2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MyBook Hype AMD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\advan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
