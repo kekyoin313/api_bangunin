@@ -1,5 +1,104 @@
 [
   {
+    "ContainingType": "praktimupaa2.Controllers.AnggaranController",
+    "Method": "GetAnggarans",
+    "RelativePath": "bangunin/v1/Anggaran",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "praktimupaa2.Models.Anggaran.Anggaran",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.AnggaranController",
+    "Method": "CreateAnggaran",
+    "RelativePath": "bangunin/v1/Anggaran",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "anggaran",
+        "Type": "praktimupaa2.Models.Anggaran.Anggaran",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.AnggaranController",
+    "Method": "GetAnggaranById",
+    "RelativePath": "bangunin/v1/Anggaran/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "praktimupaa2.Models.Anggaran.Anggaran",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.AnggaranController",
+    "Method": "UpdateAnggaran",
+    "RelativePath": "bangunin/v1/Anggaran/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "anggaran",
+        "Type": "praktimupaa2.Models.Anggaran.Anggaran",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.AnggaranController",
+    "Method": "DeleteAnggaran",
+    "RelativePath": "bangunin/v1/Anggaran/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "praktimupaa2.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "bangunin/v1/Auth/login",
@@ -211,6 +310,152 @@
     "ContainingType": "praktimupaa2.Controllers.ProductController",
     "Method": "DeleteProduct",
     "RelativePath": "bangunin/v1/Product/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.SatuanController",
+    "Method": "GetSatuans",
+    "RelativePath": "bangunin/v1/Satuan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "praktimupaa2.Models.Satuan.Satuan",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.SatuanController",
+    "Method": "CreateSatuan",
+    "RelativePath": "bangunin/v1/Satuan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "satuan",
+        "Type": "praktimupaa2.Models.Satuan.Satuan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.SatuanController",
+    "Method": "UpdateSatuan",
+    "RelativePath": "bangunin/v1/Satuan/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "satuan",
+        "Type": "praktimupaa2.Models.Satuan.Satuan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.SatuanController",
+    "Method": "DeleteSatuan",
+    "RelativePath": "bangunin/v1/Satuan/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.Tipe_anggaranController",
+    "Method": "GetTipe_anggarans",
+    "RelativePath": "bangunin/v1/Tipe_anggaran",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "praktimupaa2.Models.Tipe_anggaran.Tipe_anggaran",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.Tipe_anggaranController",
+    "Method": "CreateTipe_anggaran",
+    "RelativePath": "bangunin/v1/Tipe_anggaran",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipe_anggaran",
+        "Type": "praktimupaa2.Models.Tipe_anggaran.Tipe_anggaran",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.Tipe_anggaranController",
+    "Method": "UpdateTipe_anggaran",
+    "RelativePath": "bangunin/v1/Tipe_anggaran/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tipe_anggaran",
+        "Type": "praktimupaa2.Models.Tipe_anggaran.Tipe_anggaran",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "praktimupaa2.Controllers.Tipe_anggaranController",
+    "Method": "DeleteTipe_anggaran",
+    "RelativePath": "bangunin/v1/Tipe_anggaran/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,

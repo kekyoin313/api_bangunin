@@ -7,5 +7,6 @@
         public int harga { get; set; }
         public int stok { get; set; }
         public int? id_category { get; set; }
+        public int? id_satuan { get; set; }
     }
 }

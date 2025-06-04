@@ -16,7 +16,7 @@ namespace praktimupaa2.Models.Product
         public List<Product> GetAllProducts()
         {
             List<Product> products = new List<Product>();
-            string query = "SELECT * FROM produk";
+            string query = "SELECT * FROM product";
             postgresHelper helper = new postgresHelper(_connString);
             try
             {
@@ -30,6 +30,7 @@ namespace praktimupaa2.Models.Product
                     product.harga = reader.GetInt32(2);
                     product.stok = reader.GetInt32(3);
                     product.id_category = reader.IsDBNull(4) ? (int?)null : reader.GetInt32(4);
+                    product.id_satuan = reader.IsDBNull(5) ? (int?)null : reader.GetInt32(5);
                     products.Add(product);
                 }
                 cmd.Dispose();
@@ -45,7 +46,7 @@ namespace praktimupaa2.Models.Product
         public Product GetProductById(int id)
         {
             Product product = null;
-            string query = "SELECT * FROM produk WHERE id_produk = @id";
+            string query = "SELECT * FROM product WHERE id_product = @id";
             postgresHelper helper = new postgresHelper(_connString);
             try
             {
@@ -60,6 +61,7 @@ namespace praktimupaa2.Models.Product
                     product.harga = reader.GetInt32(2);
                     product.stok = reader.GetInt32(3);
                     product.id_category = reader.IsDBNull(4) ? (int?)null : reader.GetInt32(4);
+                    product.id_satuan = reader.IsDBNull(5) ? (int?)null : reader.GetInt32(5);
                 }
                 cmd.Dispose();
                 helper.closeConnection();
@@ -73,7 +75,7 @@ namespace praktimupaa2.Models.Product
 
         public bool AddProduct(Product product)
         {
-            string query = "INSERT INTO produk (nama_produk, harga, stok, id_category) VALUES (@nama, @harga, @stok, @category)";
+            string query = "INSERT INTO product (nama_product, harga, stok, id_category, id_satuan) VALUES (@nama, @harga, @stok, @category, @satuan)";
             postgresHelper helper = new postgresHelper(_connString);
             try
             {
@@ -82,6 +84,7 @@ namespace praktimupaa2.Models.Product
                 cmd.Parameters.AddWithValue("@harga", product.harga);
                 cmd.Parameters.AddWithValue("@stok", product.stok);
                 cmd.Parameters.AddWithValue("@category", (object?)product.id_category ?? DBNull.Value);
+                cmd.Parameters.AddWithValue("@satuan", (object?)product.id_satuan ?? DBNull.Value);
                 cmd.ExecuteNonQuery();
                 cmd.Dispose();
                 helper.closeConnection();
@@ -93,10 +96,10 @@ namespace praktimupaa2.Models.Product
                 return false;
             }
         }
-
+        public string ErrorMessage => _errorMessage;
         public bool UpdateProduct(Product product)
         {
-            string query = "UPDATE produk SET nama_produk = @nama, harga = @harga, stok = @stok, id_category = @category WHERE id_produk = @id";
+            string query = "UPDATE product SET nama_product = @nama, harga = @harga, stok = @stok, id_category = @category, id_satuan = @satuan WHERE id_product = @id";
             postgresHelper helper = new postgresHelper(_connString);
             try
             {
@@ -106,6 +109,7 @@ namespace praktimupaa2.Models.Product
                 cmd.Parameters.AddWithValue("@harga", product.harga);
                 cmd.Parameters.AddWithValue("@stok", product.stok);
                 cmd.Parameters.AddWithValue("@category", (object?)product.id_category ?? DBNull.Value);
+                cmd.Parameters.AddWithValue("@satuan", (object?)product.id_satuan ?? DBNull.Value);
                 cmd.ExecuteNonQuery();
                 cmd.Dispose();
                 helper.closeConnection();
@@ -120,7 +124,7 @@ namespace praktimupaa2.Models.Product
 
         public bool DeleteProduct(int id)
         {
-            string query = "DELETE FROM produk WHERE id_produk = @id";
+            string query = "DELETE FROM product WHERE id_product = @id";
             postgresHelper helper = new postgresHelper(_connString);
             try
             {
